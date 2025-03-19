@@ -1,4 +1,4 @@
-# ChallengeAmigoSecretoAlura
+# Challenge Amigo Secreto Alura
 Desarrollo del Challenge de Amigo Secreto
 
 El presente código tiene las funcionalidades para jugar al amigo secreto.
